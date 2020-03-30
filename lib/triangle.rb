@@ -6,6 +6,7 @@ class Triangle
     @triangle_sides << side3
   end
   
+  def kind
   
   class TriangleError < StandardError
   end
